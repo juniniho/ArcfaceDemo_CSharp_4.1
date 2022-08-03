@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/ArcFaceSDK/bin/x64/Debug
+/ArcFaceSDK/obj
+/.vs/ArcSoftFace
+/ArcSoftFace/bin/x64/Debug
+/ArcSoftFace/obj
